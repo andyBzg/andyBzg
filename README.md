@@ -2,9 +2,9 @@
 
 Glad to see you here.
 
-You can contact me via:
+:mailbox_with_mail: You can contact me via:
 
-- :mailbox_with_mail: [LinkedIn](https://www.linkedin.com/in/andrei-bezgatsev/)
+- LinkedIn ~ [https://www.linkedin.com/in/andrei-bezgatsev/](https://www.linkedin.com/in/andrei-bezgatsev/)
 
 <!--
 **andyBzg/andyBzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
